@@ -1,0 +1,23 @@
+
+
+*{
+    font-family:Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #161010;
+    color:#fff;
+
+}
+a{
+    text-decoration: none;
+    color: rgb(248, 0, 0);
+    transition: 0.5s;
+}
+
+a:hover{
+    color: #b8b8b8;
+}
